@@ -38,6 +38,7 @@ from the existing one.
 By the end of this section, the test under `<Circle />` should be passing.
 
 
+
 ### `componentWillUpdate()`
 For this section, we've got a little random .gif generator. Pressing the 'New random .gif!' button will make/perform a request
 to giphy and display a new random .gif for us! Neat! Try pressing the button now. You might have noticed
